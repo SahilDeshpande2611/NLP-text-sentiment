@@ -65,4 +65,9 @@ df = pd.read_csv('train.txt', sep=';', header=None, names=['text', 'emotion'])
 
 **Author:**  
 Sahil Deshpande  
-[LinkedIn](https://www.linkedin.com/in/sahilsdeshpande)
+
+
+### Connect :
+- **LinkedIn**: [Connect with me professionally](https://in.linkedin.com/in/sahilsdeshpande)
+
+Thank you for your support, and I look forward to connecting with you!
